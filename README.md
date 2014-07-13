@@ -23,3 +23,5 @@ Es parte de un plugin realizado para un proyecto de posicionamiento.
 
 ## Plugin Seo by Us.
 Estamos trabajando para crear un plugin completo para mejorar el SEO en los proyectos creados con WordPress.
+
+URL Plugin: https://github.com/mminguezz/wp-plugin_seo-by-us
